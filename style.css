@@ -4,6 +4,7 @@ body {
     padding: 0;
     font-size: x-large;
     color: #4682B4;
+    overflow-wrap: normal;
 }
 .page { margin: 2% 10% 2% 10%;}
 #logo {width:35px; height:70px;}
